@@ -1,14 +1,26 @@
 p {
     color: pink;
-    font-size: medium;
+    font-size: 400%;
+    font: italic;
+    position: relative;
+    left: 50%;
+    border-color: purple;
 }
 h1 {
     color: purple;
-    font-size: x-large;
+    font-size: 500%;
+    font: italic;
+    position: relative;
+    left: 50%;
+    border-color: purple;
 }
 body {
     background-image: url("https://sun9-73.userapi.com/impf/XT3nZs8mbjhjtU_TRTPNAp-ayh_uE0wfoUs5Bg/W1BBxkI651o.jpg?size=1620x2160&quality=96&sign=454918ea441464fb9883e086364ed89a&type=album");
     background-attachment: fixed;
     background-position-x: center;
     background-position-y: 50%;
+}
+a {
+    position: relative;
+    left: 50%;
 }
